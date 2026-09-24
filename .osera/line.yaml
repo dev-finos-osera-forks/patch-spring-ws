@@ -1,0 +1,8 @@
+line: spring-ws-3.1
+repository: patch-spring-ws
+members:
+  - org.springframework.ws:spring-ws-core
+  - org.springframework.ws:spring-ws-security
+  - org.springframework.ws:spring-ws-support
+  - org.springframework.ws:spring-ws-test
+  - org.springframework.ws:spring-xml
